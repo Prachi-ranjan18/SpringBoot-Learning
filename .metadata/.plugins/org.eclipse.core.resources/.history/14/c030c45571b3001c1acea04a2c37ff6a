@@ -1,0 +1,11 @@
+package com.luv2code.practice;
+
+public class GolfCoach implements Coach {
+
+	@Override
+	public String practiceDailyGolf() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
